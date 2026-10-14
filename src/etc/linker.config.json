@@ -1,0 +1,11 @@
+{
+	"provideLibs": [	
+		    "libdummy_ext_apache_xml-x86_64-v2.so",
+		    "libdummy_ext_apache_xml.so",
+		    "libdummy_shared_apache-xml-x86_64-v2.so",
+		    "libdummy_shared_apache-xml.so",
+		    "libdummy_shared_apache_xml-x86_64-v2.so",
+		    "libdummy_shared_apache_xml.so"
+	],
+	"visible": true
+}
